@@ -44,3 +44,5 @@ fun Activity.SetItemStatusBarColor(@ColorInt color: Int, darkStatusBarTint: Bool
     }
 
 }
+
+const val API_KEY = "694f3221e9ee470fbcdbbad43ca3465b"
